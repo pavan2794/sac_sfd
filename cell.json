@@ -4,7 +4,7 @@
  "name": "Cell",
  "description": "A production cell",
  "newInstancePrefix": "Cell",
- "icon": "/Icon.png",
+ "icon": "https://raw.githubusercontent.com/pavan2794/sac_sfd/main/Icon.png",
  "vendor": "Valantic",
  "eula": "",
  "license": "",
@@ -12,21 +12,21 @@
     {
     "kind": "main",
     "tag": "production-cell",
-    "url": "/cell.js",
+    "url": "https://raw.githubusercontent.com/pavan2794/sac_sfd/main/cell.js",
     "integrity": "",
     "ignoreIntegrity": true
     },
     {
     "kind": "styling",
     "tag": "production-cell-styling",
-    "url": "/cell_styling.js",
+    "url": "https://raw.githubusercontent.com/pavan2794/sac_sfd/main/cell_styling.js",
     "integrity": "",
     "ignoreIntegrity": true
     },
     {
     "kind": "builder",
     "tag": "production-cell-builder",
-    "url": "/cell_builder.js",
+    "url": "https://raw.githubusercontent.com/pavan2794/sac_sfd/main/cell_builder.js",
     "integrity": "",
     "ignoreIntegrity": true
     }
